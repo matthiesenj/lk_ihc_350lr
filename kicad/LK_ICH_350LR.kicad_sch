@@ -6,8 +6,8 @@
 
   (title_block
     (title "LK ICH Dimmer 350 LR")
-    (date "2023-12-04")
-    (rev "1")
+    (date "2023-12-09")
+    (rev "2")
     (comment 1 "LK913CB4")
     (comment 2 "LK913A4")
     (comment 3 "LK913DA4")
@@ -1684,6 +1684,11 @@
   (text "L" (at 71.12 63.5 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6b5ff2b3-8124-4ee1-b517-a7ba8536a012)
+  )
+  (text "This may not actually be a diac,\nbut could be a small signal diode\nper the SLB0587 reference schematic."
+    (at 64.77 86.36 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid d1714755-70d9-406c-af76-2462b0e6bfbc)
   )
   (text "L" (at 60.96 104.14 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
