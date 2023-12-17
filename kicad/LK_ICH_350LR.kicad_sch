@@ -6,8 +6,8 @@
 
   (title_block
     (title "LK ICH Dimmer 350 LR")
-    (date "2023-12-09")
-    (rev "2")
+    (date "2023-12-17")
+    (rev "3")
     (comment 1 "LK913CB4")
     (comment 2 "LK913A4")
     (comment 3 "LK913DA4")
@@ -2311,7 +2311,7 @@
     (property "Reference" "C3" (at 127 158.75 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "22u" (at 128.27 171.45 0)
+    (property "Value" "100u" (at 128.27 171.45 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 128.27 165.1 0)
