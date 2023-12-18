@@ -6,8 +6,8 @@
 
   (title_block
     (title "LK ICH Dimmer 350 LR")
-    (date "2023-12-17")
-    (rev "3")
+    (date "2023-12-18")
+    (rev "4")
     (comment 1 "LK913CB4")
     (comment 2 "LK913A4")
     (comment 3 "LK913DA4")
@@ -1668,6 +1668,11 @@
   (text "DC POWER" (at 82.55 153.67 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 08dfb5f6-c83a-44ca-8e13-05832cd7a326)
+  )
+  (text "F1 fuse holder: Schurter FAC 5x20mm, slotted cap\nJ1/J2 terminal block: P6.35mm"
+    (at 227.33 153.67 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 3a34f484-01b9-4f6a-bcba-46fb5c88b40a)
   )
   (text "POWER" (at 50.8 107.95 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
