@@ -5,9 +5,9 @@
   (paper "A4")
 
   (title_block
-    (title "LK ICH Dimmer 350 LR")
+    (title "LK IHC Dimmer 350 LR")
     (date "2023-12-18")
-    (rev "4")
+    (rev "5")
     (comment 1 "LK913CB4")
     (comment 2 "LK913A4")
     (comment 3 "LK913DA4")
@@ -1743,7 +1743,7 @@
     (pin "2" (uuid d1325da4-827c-44af-b1db-6989c2fdb71d))
     (pin "1" (uuid 90efcb84-8505-4298-96db-613b8a4a318a))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "R5") (unit 1)
         )
@@ -1769,7 +1769,7 @@
     (pin "1" (uuid 68a38f73-c47f-4f58-849d-722d8e12d8f5))
     (pin "2" (uuid f857a8a2-0a3c-4f2f-8b51-413aa67881ab))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "C6") (unit 1)
         )
@@ -1795,7 +1795,7 @@
     (pin "1" (uuid 03d9c257-acf6-41e9-b107-5344cc972481))
     (pin "2" (uuid 0af35dc6-33b5-45e1-859d-245cc33283e8))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "C5") (unit 1)
         )
@@ -1821,7 +1821,7 @@
     (pin "2" (uuid 2ee84707-968a-4254-bafa-ec9778a1b528))
     (pin "1" (uuid 9c295ef9-1388-4cb1-a63f-333a41606384))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "R7") (unit 1)
         )
@@ -1847,7 +1847,7 @@
     (pin "2" (uuid a3f876f4-4509-42c9-89ba-3152ce33a259))
     (pin "1" (uuid ddcabde8-be60-4e26-860c-718ed91d5172))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "R6") (unit 1)
         )
@@ -1873,7 +1873,7 @@
     (pin "1" (uuid ebd73378-b4f7-46a0-8c1e-9d6a80e84702))
     (pin "2" (uuid 64c79536-3933-4a86-8c08-9c34424d1be1))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "C7") (unit 1)
         )
@@ -1901,7 +1901,7 @@
     (pin "4" (uuid 80ec6373-f6f2-4a83-b5a2-debc7c409011))
     (pin "1" (uuid 6b93c554-716c-489f-bb3a-e6dafa5a5356))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "J1") (unit 1)
         )
@@ -1926,7 +1926,7 @@
     )
     (pin "1" (uuid 72967cd4-cfcb-4bf5-b3d3-1f1325808fe7))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "#PWR02") (unit 1)
         )
@@ -1954,7 +1954,7 @@
     (pin "4" (uuid 2bd811c4-2863-4761-a8fa-791ec6c6fd4e))
     (pin "1" (uuid c8745a96-d916-4832-8ba2-83965b2c2153))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "D1") (unit 1)
         )
@@ -1980,7 +1980,7 @@
     (pin "1" (uuid 3f26684c-f503-4950-a981-d6752b1eb975))
     (pin "2" (uuid 56e987f7-b0ae-4df5-9f01-e3d45ac84479))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "D5") (unit 1)
         )
@@ -2008,7 +2008,7 @@
     (pin "4" (uuid 7855314f-8014-43ad-8876-56dad0eedc40))
     (pin "1" (uuid 8efb11d9-3f86-4b27-b44e-d505670a8469))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "J2") (unit 1)
         )
@@ -2035,7 +2035,7 @@
     (pin "3" (uuid e6760205-7dbe-4702-9d2b-9905641964d1))
     (pin "2" (uuid c835e777-dcea-461d-9dad-ae256e2a1ef5))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "Q1") (unit 1)
         )
@@ -2060,7 +2060,7 @@
     )
     (pin "1" (uuid 27f189a7-f5e0-4b72-a84e-908bc42ed8ae))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "#PWR04") (unit 1)
         )
@@ -2086,7 +2086,7 @@
     (pin "2" (uuid 4580cf5e-c344-4eaf-b310-37fa56cc2561))
     (pin "1" (uuid 199802af-bef1-4bcf-94d1-f34b0f862dad))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "F1") (unit 1)
         )
@@ -2112,7 +2112,7 @@
     (pin "2" (uuid 934be3b2-eb41-4f5e-93ba-16073101417d))
     (pin "1" (uuid 776c1d1f-24e5-4fbb-a0bf-b216e21ce8a2))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "L1") (unit 1)
         )
@@ -2138,7 +2138,7 @@
     (pin "2" (uuid f3419bdb-5c0f-4910-962e-cb1ffa638367))
     (pin "1" (uuid fe2be268-a227-465a-b039-b31b5660e410))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "R4") (unit 1)
         )
@@ -2163,7 +2163,7 @@
     )
     (pin "1" (uuid efb91296-add2-4c9d-a1a0-6597d5f651ed))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "#PWR06") (unit 1)
         )
@@ -2188,7 +2188,7 @@
     )
     (pin "1" (uuid 86c7490d-06f1-4a89-b671-34ecc98fb80d))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "#PWR01") (unit 1)
         )
@@ -2213,7 +2213,7 @@
     )
     (pin "1" (uuid ac4f3e39-14a4-4d47-a5bf-b3eefdf9a14e))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "#PWR05") (unit 1)
         )
@@ -2238,7 +2238,7 @@
     )
     (pin "1" (uuid 8e8aa2b6-7390-45e0-9bea-5487a17fd7f1))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "#PWR03") (unit 1)
         )
@@ -2270,7 +2270,7 @@
     (pin "2" (uuid 0a4bb187-f98e-446d-90ef-4509aa172df1))
     (pin "1" (uuid dead7a3e-37fd-495d-9b02-3c0516746f42))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "VR1") (unit 1)
         )
@@ -2302,7 +2302,7 @@
     (pin "2" (uuid 57e517b2-decb-48d3-a3cd-8b7380feea8a))
     (pin "1" (uuid fad150d0-6b1d-47d9-97ad-798c5819fa4d))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "CR1") (unit 1)
         )
@@ -2328,7 +2328,7 @@
     (pin "1" (uuid 9b040e98-3ba8-47c7-9a1a-6c748342bac6))
     (pin "2" (uuid 31525750-bf0f-4b52-bb96-f83b4521e3fa))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "C3") (unit 1)
         )
@@ -2353,7 +2353,7 @@
     )
     (pin "1" (uuid fb34589c-0b7b-4d1f-a43f-c948c8681bfd))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "#PWR08") (unit 1)
         )
@@ -2379,7 +2379,7 @@
     (pin "2" (uuid 19719148-a29e-432c-b82c-1dfbd4649c42))
     (pin "1" (uuid f95b28a5-77d3-4173-8ce2-d925aeb4f2fe))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "R3") (unit 1)
         )
@@ -2405,7 +2405,7 @@
     (pin "2" (uuid 0ac81260-1122-4997-8c25-f4747feb65ad))
     (pin "1" (uuid 36c4c698-7720-48b4-a303-023170fadf6c))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "R1") (unit 1)
         )
@@ -2431,7 +2431,7 @@
     (pin "2" (uuid fe366b38-9b01-4cab-917f-a1542f0eab90))
     (pin "1" (uuid 4c82795b-a8d3-4e69-a253-af03285802b9))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "R8") (unit 1)
         )
@@ -2463,7 +2463,7 @@
     (pin "1" (uuid 3c9f671e-f4e7-46e8-8275-c5f6b5a0fe9b))
     (pin "4" (uuid b1ca2d75-5b90-446f-aa79-ee2c42712062))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "U1") (unit 1)
         )
@@ -2489,7 +2489,7 @@
     (pin "1" (uuid db633065-b59f-4917-ba9b-b4bea548c078))
     (pin "2" (uuid eb2546c4-7a2c-4d25-a98f-0b97aa5d0316))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "C4") (unit 1)
         )
@@ -2515,7 +2515,7 @@
     (pin "2" (uuid 258765f5-87a4-4ba7-88dd-edc044692f9f))
     (pin "1" (uuid 94b00471-237a-4c8d-9cf4-faa35f8c0ecd))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "LA1") (unit 1)
         )
@@ -2541,7 +2541,7 @@
     (pin "2" (uuid b9f11dca-2dac-487f-af75-f1a0dd33bbf6))
     (pin "1" (uuid e3a42c28-c0c7-4c46-ada0-a9a574bdc674))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "R2") (unit 1)
         )
@@ -2567,7 +2567,7 @@
     (pin "1" (uuid 8f1536e7-99ef-4ebc-a349-05399f7ad313))
     (pin "2" (uuid 3e9d8a6f-02c2-485a-8d39-45c33b87502d))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "C1") (unit 1)
         )
@@ -2592,7 +2592,7 @@
     )
     (pin "1" (uuid 923230ca-278f-4c62-9e29-08341937ee71))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "#PWR07") (unit 1)
         )
@@ -2620,7 +2620,7 @@
     (pin "2" (uuid 9a667f57-7689-420e-904a-af4b4e7c75e8))
     (pin "3" (uuid fda72675-7a9a-4f46-b054-349fa02785da))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "U2") (unit 1)
         )
@@ -2646,7 +2646,7 @@
     (pin "1" (uuid 08b7c3f1-bd1b-47b5-916d-0f3bf20a71d6))
     (pin "2" (uuid 1e0bbf3c-275b-4d82-bfa2-29dd356f383b))
     (instances
-      (project "LK_ICH_350LR"
+      (project "LK_IHC_350_LR"
         (path "/00661e67-d895-4a4d-8f6d-597ae5750c96"
           (reference "C2") (unit 1)
         )
